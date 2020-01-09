@@ -1,0 +1,28 @@
+{
+    "contacts": [
+        {
+                "id": "c200",
+                "name": "Saad Mahmood Video",
+                "email": "Description of video",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "Author of Video",
+                    "home": "https://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_20mb.mp4",
+                    "office": "00 000000"
+                }
+        },
+		{
+                "id": "c200",
+                "name": "Mufti Salman Video",
+                "email": "Description of video",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "Author of Video",
+                    "home": "https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+                    "office": "00 000000"
+                }
+        }
+    ]
+}
